@@ -1,0 +1,4 @@
+This class does not compile
+1) SecurityFilter class does not compile
+2) AuthService does not compile
+3) AuthController
